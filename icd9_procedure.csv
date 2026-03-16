@@ -1,0 +1,1202 @@
+Procedure,Code
+Lumbar Puncture (LP),3.31
+EEG (Electroencephalogram),89.14
+Bronchoscopy via tracheostomy,33.21
+Fibreoptic intubation (AFOI),33.22
+BAL (Bronchoalveolar lavage),33.24
+Tracheostomy,31.1
+Chest Tube Insertion,34.04
+Pleural Tap,34.91
+Removal Chest Tube,97.41
+Insertion of Nasopharyngeal Airway,96.01
+Insertion of Oropharyngeal Airway,96.02
+Intubation (Insertion of ETT),96.04
+Neb (e.g.Salbutamol/Combivent),93.94
+Oxygen Therapy (e.g.FMO2/NPO2),93.96
+Tracheostomy dressing,96.55
+Suction (ETT/Tracheostomy),96.56
+NIV/ HFNC,93.9
+Continuous Invasive Mechanical Ventilation for less than 4 consecutive days,96.71
+Continuous Invasive Mechanical Ventilation for 4 consecutive days or more,96.72
+NPS for COVID-19 PCR,99.99
+Insertion of Arterial Line,38.91
+Systemic Arterial Pressure Monitoring,89.61
+CVL Insertion,38.93
+CVL Insertion under USG Guidance,38.97
+Central Venous Pressure Monitoring,89.62
+ECG (Electrocardiogram),89.52
+Cardiac Monitoring,89.54
+Respiratory Rate monitoring,89.38
+Temporary Pacemaker Insertion,37.78
+Echocardiography,88.72
+Cardiac output monitoring (thermodilution),89.68
+Cardioversion/Defibrillation,99.62
+CPR,99.6
+Bone Marrow Aspiration,41.31
+Transfusion of Whole Blood,99.03
+Transfusion of Packed Cells ,99.04
+Transfusion of Platelet,99.05
+Transfusion of Cryoprecipitate/coagulation factors,99.06
+Transfusion of FFP,99.07
+Therapeutic Plasmapheresis,99.71
+Fitting of Orthotic Device,93.23
+Chest physio/postural drainage,93.99
+Breathing  exercise,93.18
+Forced Extension of Limb,93.25
+Passive Musculoskeletal Exercise,93.17
+Active Musculoskeletal Exercise,93.12
+CT Brain,87.03
+CECT Brain,88.41
+CT Thorax/CT Heart,87.41
+CT Abdomen,88.01
+CECT Abdomen,88.47
+CT Cervical,87.03
+CT Kidney,87.71
+CT Pulmonary Artery (CTPA),88.43
+CTA Upper  limbs (other specified site),88.49
+CTA Femoral and other lower extremities,88.48
+X-ray Abdomen,88.19
+X-ray KUB,87.79
+X-ray chest,87.44
+X-ray Skull,87.17
+"X-ray of Ribs,Sternum & Clavicle",87.43
+X-ray Elbow/Forearm,88.22
+X-ray Wrist & Hand,88.23
+X-ray Hip/Pelvic,88.26
+X-ray Thigh/Knee/Tibia/Fibula,88.27
+X-ray Ankle/Foot,88.28
+X-ray Femur,88.27
+X-ray Lumbosacral spine,87.24
+X-ray Thoracic Spine,87.23
+X-ray Cervical Spine,87.22
+X-ray Shoulder/Upper Arm,88.21
+MRI Brain,88.91
+MRI Spine/Lumbosacral,88.93
+U/S KUB,88.75
+U/S Abdomen,88.76
+U/S HBS,88.74
+U/S Doppler/U/S peripheral vascular,88.77
+U/S Gravid Uterus,88.78
+U/S Uterus (Non-gravid)/other sites,88.79
+CTG,75.34
+Linezolid injection/Infusion,0.14
+Vasopressor Agent Infusion/Inotropes,0.17
+Infusion of Gamma-globulin,99.14
+Injection/Infusion of insulin,99.17
+Infusion of IVD/electrolyte supplement,99.18
+Injection of anticoagulant,99.19
+Injection or infusion of thrombolytic agent,99.1
+Injection of Antibiotic,99.21
+Injection of Antiviral/Antifungal,99.22
+Injection of Steroid,99.23
+Infusion /Injection Cancer Chemotherapeutic,99.25
+Injection/Infusion of sedation/tranquilizer,99.26
+Infusion of muscle relaxant (therapeutic agent),99.29
+Injection of Antidote (e.g. Atropine/Flumazenil),99.16
+Injection or infusion of concentrated nutritional substances (TPN),99.15
+Haemodialysis/CVVHDF,39.95
+Peritoneal Dialysis,54.98
+CBD,57.94
+Removal of CBD,97.64
+Catheter Insertion for hemodialysis,38.95
+OGDS,45.13
+Colonoscopy,45.23
+Percutaneous needle biopsy liver,50.11
+Percutaneous abdominal drainage,54.91
+Ryles Tube Feeding,96.6
+Insertion of Ryles Tube,96.07
+Replace Nasogastric Tube,97.01
+Insertion of Sengstaken Tube,96.06
+PR - Digital examination of rectum,89.34
+Ravin Enema (Transanal Enema),96.39
+MRCP,88.97
+ABG,89.65
+VBG,89.66
+FBP,90.59
+Blood C&S,90.53
+Urine C&S/penile swab for C&S,91.33
+Op site swab/slough/tissue C&S,91.73
+Sputum/ETT/BAL C&SS,90.43
+Sputum/ETT/BAL for AFB smear,90.41
+Pleural fluid C&S,90.43
+CSF C&S,90.03
+Rectal swab/Stool for C&S,90.93
+Stool for Ova and Cyst,90.94
+Bone C&S,91.53
+Urine FEME,91.39
+Urine Biochemistry,89.29
+Isolation Nursing (after contact with infectious disease),99.84
+Pressure/compression dressing,93.56
+Wound dressing,93.57
+Wound desloughing,86.28
+Heat Therapy,93.35
+Neck collar,93.52
+Skin traction,93.46
+Skeletal traction,93.44
+Bispectral Index monitoring (BIS),0.94
+Intubation (Insertion of ETT),96.04
+Cardiac monitoring,89.54
+Intrathecal Morphine Injection,3.92
+Epidural catheter insertion,3.9
+Subarachnoid Block (SAB),3.91
+Spinal blood patch,3.95
+Peripheral nerve block for analgesia,4.81
+PCA/IV/IM/SC Morphine/Fentanyl any analgesia,99.29
+Sacroiliac joint injection,81.92
+Epidural steroid injection,3.92
+Trigger point injection (LA),99.29
+Trigger point injection (steroid),99.23
+Dental examination and charting,89.31
+Diagnostic cast,27.29
+"MRI - face, head & neck",88.97
+Neurologic examination,89.15
+Photography- photo images -Intraoral,27.29
+Photography-photo images -Extraoral,27.29
+Radiograph - CBCT,88.9
+Radiograph - intra oral-periapical / bitewing / occlusal,87.12
+"Radiograph - extra oral - OMV, Reverse Town, PA skull",87.16
+Radiograph - extra oral- OPG/lateral ceph/TMJ view,87.12
+"Special investigations (eg. Pulp vitality test, EPT,
+ transillumination, bite test, test cavity etc.)",24.19
+Ultrasound of head & neck,88.71
+Behaviour modification,94.33
+Desensitization therapy,94.33
+Hypnosis,94.32
+Inhalation sedation,99.99
+Relaxation training,94.33
+Sedation oral/intranasal,99.99
+Dental discing,99.99
+Dental prophylaxis,96.54
+Dental scaling,96.54
+Desensitization of sensitive teeth,99.99
+Diet counselling,89.02
+Fissure sealant,23.49
+Oral hygiene instructions,99.99
+Oral toilet with antimicrobial agent,24.99
+Topical application of fluoride,24.99
+Topical therapy,24.99
+Bleaching of teeth - non-vital,99.99
+Bleaching of teeth - vital,99.99
+Bridge - Maryland etc.,23.42
+Cementation / Recementation of fixed prosthesis,23.49
+"Construction of provisional restoration
+ (crown/bridge/onlay)",23.49
+Crown (Stainless steel crown/strip crown/others),23.41
+Microabrasion each tooth,99.99
+Modification of tooth morphology,23.49
+Occlusal adjustment,24.8
+Onlay/inlay,23.3
+Post and core device,23.49
+Preventive Resin Restoration (PRR),23.2
+Recontouring and finishing of pre-existing restoration,24.99
+Removal of bridge,97.35
+Removal of crown,97.35
+Restoration - deciduous/permanent,23.2
+Restoration with pin retention,23.2
+Temporary restoration - deciduous/permanent,23.49
+"Veneer - composite, ceramage etc.",23.49
+Apexification,23.7
+Apicectomy with retrograde root filling-anterior tooth,23.72
+Apicectomy with retrograde root filling-posterior tooth,23.72
+Arrest of resorption of traumatised tooth,23.71
+Placement of apical barrier (with any types of materials),23.7
+Pulp capping - direct/indirect,23.49
+Pulpectomy - deciduous/permanent,23.71
+Pulpotomy - deciduous - vital/non-vital,23.7
+Pulpotomy - permanent - coronal/Cvek etc,23.7
+Repair of procedural error ?C eg: perforated root,23.7
+Retrieval of separated/broken instrument,98.22
+Revascularization,23.7
+Root canal retreatment,23.7
+Root canal treatment - interim visits,23.71
+Root canal treatment - obturation of anterior tooth,23.7
+Root canal treatment - obturation of molar,23.7
+Root canal treatment - obturation of premolar,23.7
+Control of haemorrhage - post extraction,39.98
+Extraction of supernumerary tooth,23.09
+Extraction of tooth - deciduous,23.01
+Extraction of tooth - permanent,23.09
+Management of infected socket,96.59
+Post extraction complication,99.99
+Insertion of tooth separator,24.7
+Interdental stripping,99.99
+Periodontal splint,24.7
+Placement of molar bands,24.7
+Placement of orthodontic brackets,24.7
+Placement of Temporary Anchorage Device (TAD),24.8
+Provision of fixed retainer - lower/upper arch,24.7
+Provision of fixed space maintainer - lower/upper arch,24.7
+Provision of functional appliance - removable,24.7
+Provision of lingual arch,24.7
+Provision of lip bumper,24.7
+Provision of palatal arch/connectors,24.7
+Provision of removable appliance - lower/upper arch,24.7
+Provision of removable retainer - lower/upper arch,24.7
+Provision of removable space maintainer - lower/upper arch,24.7
+Provision of strapping appliance,97.14
+Removal of fixed retainer - lower/upper arch,24.8
+Repair of removable appliance,24.8
+Appliance - oral medicine,24.7
+"Dental splints (soft/hard/mouthguard/occlusal splint
+ etc.)",99.99
+Feeding plate,24.7
+Preliminary dental impression,27.29
+Preliminary impression for maxillofacial prosthesis,99.99
+Prosthesis - denture - lower full,99.97
+Prosthesis - denture - lower partial,99.97
+Prosthesis - denture - upper full,99.97
+Prosthesis - denture - upper partial,99.97
+Prosthesis - immediate denture per arch,99.97
+"Prosthesis - other maxillofacial prosthesis (ear/nose/eye
+ etc)",97.29
+Prosthesis - overdenture - lower full,99.97
+Prosthesis - overdenture - lower partial,99.97
+Prosthesis - overdenture - upper full,99.97
+Prosthesis - overdenture - upper partial,99.97
+Prosthesis - oyster splint,97.29
+Prosthesis - speech aid,99.99
+Rebasing and relining of denture,99.99
+Removal of dental prosthesis,97.35
+Removal of eye prosthesis,97.31
+Repair of removable appliances including dentures,99.99
+Secondary or final impression,99.99
+Ablation lesion lower lip,27.43
+Ablation lesion oral cavity,27.49
+Ablation lesion orofacial - cryosurgery,27.92
+Ablation lesion upper lip,27.43
+Alveoloplasty/alveolectomy,24.5
+Apicectomy - anterior tooth,23.73
+Apicectomy - posterior tooth,23.73
+Autotransplantation tooth,23.5
+Biopsy - buccal soft tissue,27.24
+Biopsy - floor of mouth,27.24
+Biopsy - gingiva/alveolar soft tissue,24.11
+Biopsy - hard palate,27.21
+Biopsy - lower lip,27.23
+Biopsy - mandible,76.11
+Biopsy - maxilla,76.11
+Biopsy - retromolar/palatoglossal arch soft tissue,27.24
+Biopsy - soft palate,27.22
+Biopsy - tongue,25.02
+Biopsy - upper lip,27.23
+Closure oro-antral fistula,22.71
+Comprehensive dental treatment under GA,24.99
+Control of haemorrhage- Lesion,39.98
+Control of haemorrhage- Post Surgery,39.98
+Crown lengthening without ostectomy,24.5
+Debridement soft tissue wound orofacial,86.28
+Decoronation,23.19
+Dental extraction under GA,24.99
+Dental implant stage 1 surgery,23.6
+Dental implant stage 2 surgery,23.6
+Enucleation cyst mandible- complex,76.2
+Enucleation cyst mandible- simple,76.2
+Enucleation cyst maxilla- complex,76.2
+Enucleation cyst maxilla- simple,76.2
+Excision of lesion - floor of mouth,27.49
+Excision of lesion - gum/gingiva,24.31
+Excision of lesion - lower lip - complex,27.42
+Excision of lesion - lower lip - simple,27.43
+Excision of lesion - mandible,76.2
+Excision of lesion - maxilla,76.2
+Excision of lesion - other parts of oral region,27.49
+Excision of lesion - upper lip - complex,27.42
+Excision of lesion - upper lip - simple,27.43
+Excision of lesion or tissue of hard palate - complex,27.32
+Excision of lesion or tissue of hard palate - simple,27.31
+Excision of sublingual gland,26.3
+Exploration under GA,27.99
+Frenectomy - labial,27.41
+Frenectomy - lingual,25.92
+Frenotomy - labial,27.91
+Frenotomy - lingual,25.91
+Gingivectomy,24.31
+Gingivoplasty,24.2
+Graft : Osseous,76.91
+Graft : Skin,27.56
+Graft : Tissue,27.99
+Incision and drainage of peridontal abscess,27
+Incision and drainage orofacial abscess,27
+Injection medication - orofacial,99.29
+Management of infected wound (intraoral/extraoral),96.59
+Marsupialisation of cyst mandible,76.2
+Marsupialisation of cyst maxilla,76.2
+Marsupialisation of floor of mouth,27.49
+Marsupialisation of lip,27.43
+Marsupialisation of palate (soft/hard),27.31
+Marsupialisation of ranula,26.21
+"Marsupialisation of soft tissue lesion oral cavity
+ complex",27.9
+Marsupialisation of soft tissue lesion oral cavity simple,27.9
+Marsupialisation of tongue,25.99
+Needle aspiration - orofacial,27.29
+Operculectomy,24.31
+Pericision of periodontal ligament,24.31
+Placement of Temporary Anchorage Device - lower arch,24.8
+Placement of Temporary Anchorage Device - upper arch,24.8
+Reimplantation tooth,23.5
+Removal submandibular duct calculus - closed,26.99
+Removal submandibular duct calculus - open,26.99
+Repositioning of tooth ?C non-surgical,24.99
+Repositioning of tooth ?C surgical,24.99
+Root resection,23.73
+Sequestrectomy - mandible/maxilla,76.01
+Soft tissue revision,27.5_ (9)
+"Surgical exposure of tooth with placement of
+ attachment","24.6 &
+ 24.7"
+"Surgical exposure of tooth without placement of
+ attachment",24.6
+Surgical removal of impacted / unerupted tooth - complicated,23.19
+Surgical removal of impacted / unerupted tooth - simple,23.19
+"Surgical removal of retained root -
+ deciduous/permanent",23.11
+Surgical removal of supernumerary tooth,23.19
+Tooth hemisection,23.73
+Vestibuloplasty,24.91
+Closed reduction & fixation - dento-alveolar fracture,76.7
+"Closed reduction & fixation - mandible/TMJ/condylar
+ fracture",76.75
+Closed reduction & fixation - simple midfacial bone,76.73
+Dental wiring lower arch,93.55
+Dental wiring upper arch,93.55
+Intermaxillary fixation (IMF),93.55
+"Open reduction & internal fixation - dento-alveolar
+ fracture",76.77
+Open reduction & internal fixation - mandible,76.76
+"Open reduction & internal fixation - simple midfacial
+ bone",76.74
+Removal of any foreign body (extraoral),98.22
+Removal of any foreign body (intraoral),98.01
+Removal of dental wires/archbars - lower arch,97.33
+Removal of dental wires/archbars - upper arch,97.33
+Removal of internal fixation - maxillofacial,76.97
+Splinting of teeth,93.55
+Suture of laceration of extraoral/facial region,86.59
+Suture of laceration of gum,24.32
+Suture of laceration of lip,27.51
+Suture of laceration of other part of intraoral mucosa,27.52
+Suture of laceration of palate,27.61
+Suture of laceration of tongue,25.51
+Suture to open (STO)/ suture removal,97.38
+Temporary reduction and fixation - mandible,76.7
+"Temporary reduction and fixation - simple midfacial
+ bone",76.7
+Microscopic examination of dental specimen,90.8_
+Oral muscle stimulation,93.19
+Other manipulations of TMJ (eg. jaw exercise),76.95
+Other unspecified dental appliances,23.49
+Placement of medicated gauze packing,99.99
+Removal of medicated gauze packing,97.34
+Replacement of medicated gauze packing,97.22
+Taping/Bandaging/Strapping,93.59
+TMJ dislocation : closed reduction,76.93
+Lumbar Puncture,3.31
+Injection agent into spinal canal,3.92
+Respiratory System,
+Bronchoscopy,33.24
+Percutaneous needle biopsy lung,33.26
+Chest tube insertion,34.04
+Pleural biopsy,34.24
+Pleural tap,34.91
+Removal chest tube,97.41
+Nebulizer,93.94
+Oxygen therapy,93.96
+Intubation,96.04
+Mechanical ventilation (<96H),96.71
+Mechanical ventilation (>96H),96.72
+BIPAP,93.9
+Tracheostomy,31.1
+Insertion of Arterial Line,38.91
+,
+Cardiovascular System,
+Inj./Infusion of Thrombolytic Agent,99.1
+Echocardiography (ECHO),88.72
+Electrocardiogram (ECG),89.52
+Cardiac Monitoring,89.54
+Insertion of IJC,38.97
+Insertion of CVL,38.93
+Defibrillation,99.62
+Cardioversion of Cardiac Rhythm,99.62
+CPR,99.6
+Temporary Pacemaker Insertion,37.78
+Pericardiocentesis,37
+Cardiac Rehabilitation,93.89
+HOLTER,89.5
+Urinary System,
+IV Femoral vein catheterization for dialysis,38.95
+Haemodialysis,39.95
+Peritoneal dialysis,54.98
+Percutaneous needle biopsy,55.23
+Removal of indwelling catheter (CBD),97.64
+Closed Bladder Drainage (CBD),57.94
+Haematology System,
+Bone marrow aspiration,41.31
+Transfusion of whole blood,99.03
+Transfusion of packed cells,99.04
+Transfusion of platelet,99.05
+Transfusion of plasma,99.07
+Therapeutic plasmapheresis,99.71
+Abdominal system,
+OGDS,45.13
+OGDS with biopsy,45.16
+Colonoscopy,45.23
+Percutaneous needle biopsy liver,50.11
+Peritoneal Tap,54.91
+Replace nasogastric tube,97.01
+Insertion ryles tube,96.07
+Ryles tube feeding,96.6
+Transanal enema (ravin enema),96.39
+Linezolid inj./infusion,0.14
+Vasopressor agent infusion,0.17
+Infusion of gammaglobulin,99.14
+Injection of insulin,99.17
+Infusion of electrolytes,99.18
+Injection of anticoagulant,99.19
+Injection of antibiotic,99.21
+Injection of anti-infective,99.22
+Injection of steroid,99.23
+Infusion cancer chemotherapeutic,99.25
+Isolation nursing,99.84
+Intravenous fluid infusion (IVD),99.18
+Dressing (Ulcer),93.56
+Simple dressing,93.57
+Wound debridement,86.28
+Venepuncture,38.99
+Blood C&S,90.53
+Urine C&S,91.33
+Sputum C&S,90.43
+Urine FEME,91.39
+Urine Biochemistry,89.29
+ABG,89.65
+FBP,90.59
+X-rays,
+CXR,87.44
+AXR (abdomen),88.19
+Xray KUB,87.79
+Xray Spine,87.29
+Xray Pelvis,88.26
+CT Brain,87.03
+CT Thorax,87.41
+MRI Brain,88.91
+CT Abdomen,88.01
+USG KUB,88.75
+USG Abdomen,88.76
+USB HBS,88.74
+Chest tube insertion,34.04
+Removal of chest tube,97.41
+Pleural tapping,34.91
+Nebulizer,93.94
+Oxygen therapy,93.96
+Intubation,96.04
+Non-invasive ventilation(bipap/cpap),93.9
+Mechanical intubation/ventilation - < 96 hours,96.71
+Mechanical intubation/ventilation - >/= 96 hours,96.72
+#NAME?,96.7
+Incentive spirometry,89.37
+Pleurodesis,34.92
+Central venous line insertion,38.93
+Cardioversion of cardiac rhythm,99.62
+Cardiopulmonary Resuscitation (CPR),99.6
+Defibrillation,99.62
+Pericardiocentesis,37
+Transfusion of whole blood,99.03
+Transfusion of packed cells,99.04
+Transfusion of platelet,99.05
+Transfusion of coagulation factors,99.06
+Transfusion of plasma,99.07
+Closed bladder drainage (CBD),57.94
+Removal of CBD,97.64
+Bladder irrigation,96.48
+Hemodialysis,39.95
+Suprapubic catheterization (SPC),57.18
+Peritoneal tapping,54.91
+Nephrostomy,55.02
+Percutaneous needle biopsy of kidney,55.23
+Percutaneous drainage (renal abscess),59.8
+Percutaneous lithotomy (kidney),55.03
+Percutaneous needle biopsy (liver),50.11
+Percutaneous abdominal drainage,54.91
+Percutaneous cholecystostomy,51.01
+TRUS biopsy of prostate,60.11
+Pigtail/other drainage catheter (pleural),34.04
+Dressing (ulcer),93.56
+Simple dressing (wound),93.57
+Chemotherapy,99.25
+Iv Drip/electrolytes,99.18
+Injection of insulin,99.17
+Injection of anticoagulant,99.19
+Injection of antibiotic,99.21
+Injection of steroid,99.23
+Total parenteral nutrition,99.15
+Insertion of Ryle??s tube,96.07
+Replacement of nasogastric tube,97.01
+Ryle??s tube feeding,96.6
+Ravin enema,96.39
+OGDS,45.13
+OGDS with biopsy,45.16
+OGDS with banding,42.33
+ERCP,51.1
+Banding of hemorrhoids,49.45
+Colonoscopy,45.23
+Flexible sigmoidoscopy,45.24
+Occupational therapy,93.83
+Chest Physiotherapy,93.99
+Limb Physiotherapy,93.39
+Laparoscopic cholecystectomy,51.23
+Open cholecystectomy,51.22
+Whipple procedure (pancreaticoduodenectomy),52.7
+Lobectomy of liver,50.3
+Total pancreatectomy,52.6
+Open appendicectomy,47.09
+Laparoscopic appendicectomy,47.01
+Left hemicolectomy,45.75
+Laparoscopic left hemicolectomy,17.35
+Right hemicolectomy,45.73
+Laparoscopic right hemicolectomy,17.33
+Exploratory laparotomy,54.11
+Diagnostic laparoscopy,54.21
+Anterior resection with colostomy,48.62
+Omentectomy,54.4
+Relaparotomy,54.12
+Intestinal anastomosis- small to small intestines,45.91
+Intestinal anastomosis- small intestine to rectal stump,45.92
+Intestinal anastomosis- other small to large intestine,45.93
+Intestinal anastomosis- large to large intestine,45.94
+Intestinal anastomosis- small intestine to anus,45.95
+Fundoplication,44.66
+Colostomy,46.1
+Closure of colostomy,46.52
+Ileostomy,46.2
+Closure of ileostomy,46.51
+Revision of intestinal stoma,46.4
+Unilateral inguinal hernia repair (open),53
+Unilateral inguinal hernia repair - Laparoscopic,17.11
+Bilateral inguinal hernia repair (open),53.1
+Bilateral inguinal hernia repair- Laparoscopic,17.24
+Femoral hernia repair(unilateral),53.29
+Femoral hernia repair(bilateral),53.39
+Umbilical hernia repair (open),53.41
+Umbilical hernia repair- Laparoscopic,53.43
+Excision of lymph nodes- cervical lymph node,40.21
+Excision of lymph nodes- axillary lymph node,40.23
+Excision of lymph nodes- inguinal lymph node,40.24
+Excision of lymph nodes- cystic hygroma/lymphangioma,40.29
+Interlocking Nail Left Femur,79.35 Open reduction of fracture with internal fixation
+Long Non Locking Reconstruction Plate Right Iliac,79.39 Open reduction of fracture with internal fixation
+Nail Bed Repair,"86.27 Debridement of nail, nail bed, or nail fold"
+K-Wire Insertion Right Index Finger,79.14 Closed reduction of fracture with internal fixation
+Open Book Fracture Pelvic External Fixator,78.19 Application of external fixator device
+Bone Graft,78.0 Bone graft
+Left Distal Femur Variable Locking Plate,79.35 Open reduction of fracture with internal fixation
+Tension Band Wire Left Olecranon,79.39 Open reduction of fracture with internal fixation
+Open Reduction Internal Fixation Fracture Right Zmc,"ZMC = Zygomaticomaxillary complex fracture
+76.72 Open reduction of malar and zygomatic fracture
+76.74 Open reduction of maxillary fracture
+
+kod ini sudah mengambilkira INTERNAL FIXATION "
+Below Knee Amputation,84.15 Other amputation below knee
+Left Cross Wrist External Fixation And Left Radiocarpal K-Wire And Tightrope Left Distal Radius Ulnar Joint,"watak utama : Left distal radius ulnar joint
+
+LEFT CROSS WRIST EXTERNAL FIXATION
+- 78.13 Application of external fixator device
+LEFT RADIOCARPAL K-WIRE
+- 79.32 Open reduction of fracture with internal fixation
+
+"
+Hydrostatic reduction,96.29 Reduction of intussusception of alimentary tract
+Scrotal exploration,61.19 Other diagnostic procedures on scrotum and tunica vaginalis
+Excision of testicular appendix,"62.2 Excision or destruction of testicular lesion
+Excision of appendix testis"
+Usg guided pigtail insertion,"tak cukup specific sebab tiada lokasi
+- kalau diagnosis  die pleural effusion/abscess, 
+34.04 Insertion of intercostal catheter for drainage
+- kalau diagnosis die kidney abscess/pyelonephritis ker 
+55.12 Pyelostomy
+Insertion of drainage tube into renal pelvis
+- kalau diagnosis  die liver abscess, 
+50.19 Other diagnostic procedures on liver"
+Iv infusion normal saline,"iv infusion normal saline = ivd = iv drip
+99.18"
+b-hCG,"dia ni blood test, tk yah la letak"
+Nail Trephination of Right Thumb with occlusive dressing ,boleh la hahahah
+Drains removal from neck,97.39 Removal of other therapeutic device from head and neck
+Cerclage wire left patella,78.56 Internal fixation of bone without fracture reduction (patella)
+Percutaneous Transpedicular Screw Insertion L3-S1,84.82 Insertion or replacement of pedicle-based dynamic stabilization device(s)
+Screw Fixation Right Radial Styloid,79.32 Open reduction of fracture with internal fixation (radius)
+glanuloplasty,64.49 Other repair of penis
+scrotoplasty,61.49 Other repair of scrotum and tunica vaginalis
+decompressive Craniectomy And Clot Evacuation,01.25 Other craniectomy
+removal of necrotic patch,"86.22 Excisional debridement of wound, infection, or burn"
+Laparoscopic Assisted Percutaneous Left Internal Ring Ligation,"17.13 Laparoscopic repair of inguinal hernia with graft or prosthesis, not otherwise specified"
+Excision Biopsy of right back Lipoma,86.3 Other local excision or destruction of lesion or tissue of skin and subcutaneous tissue
+Bicolumnar plating of right distal humerus,79.31 Open reduction of fracture with internal fixation (humerus)
+Removal Of Abdominal Pregnancy,74.3 Removal of extratubal ectopic pregnancy
+Trop T/I,"blood test ni, tak perlu letak procedure la"
+Superficialization Of Lower Brachiocephalic Fistula,39.42 Revision of arteriovenous shunt for renal dialysis
+ommaya tapping,"01.02 Ventriculopuncture through previously implanted catheter
+Puncture of ventricular shunt tubing"
+Anterior Cruciate Ligament (ACL) Reconstruction,81.45 Other repair of the cruciate ligaments
+Laparotomy Para-Aortic And Aortocaval Lymph Node Dissection,"PARA-AORTIC LYMPH NODE DISSECTION
+- 40.52 Radical excision of periaortic lymph nodes
+AORTOCAVAL LYMPH NODE DISSECTION
+- 40.59 Radical excision of other lymph nodes"
+Laparotomy Caudate Liver Lobe Resection,50.3 Lobectomy of liver
+Diagnostic Laparoscopic And Omental Biopsy,"54.21 Laparoscopy
+
+54.23 Biopsy of peritoneum
+Biopsy of:
+mesentery
+omentum"
+iv line insertion,"ni macam branula insertion je, tk yh masukkan"
+Laparoscopic Non Anatomical Resection Segment III Colorectal Liver Metastasis,50.22 Partial hepatectomy
+Refashioning Of Right 3rd Toe,84.11 Amputation of toe
+Right Knee Arthrotomy Washout,80.16 Other arthrotomy (knee)
+Left below knee amputation,84.15 Other amputation below knee
+Bone marrow density scan,88.98 Bone mineral density studies
+left anterior talofibular ligament reconstruction ,81.94 Suture of capsule or ligament of ankle and foot
+Right frontal vsgs,"Ventriculosubgaleal shunt (VSGS)
+
+02.31 Ventricular shunt to structure in head and neck"
+Left Anterior Talofibular Ligament Reconstruction ,81.94 Suture of capsule or ligament of ankle and foot
+Tibial pin insertion,93.44 Other skeletal traction
+Thrombolysis,99.10 Injection or infusion of thrombolytic agent
+"Exploratory laparotomy, liver packing, bogota bag application","54.11 Exploratory laparotomy
+54.99 Other other operation on abdominal region
+54.72 Other repair of abdominal wall"
+"Relaparotomy, Removal of Bogota Bag, Closure of Abdominal wall","54.11 Exploratory laparotomy
+86.05 Incision with removal of foreign body or device from skin and subcutaneous tissue
+54.61 Reclosure of postoperative disruption of abdominal wall"
+Laparoscopic intraperitoneal onlay mesh repair,53.63 Other laparoscopic repair of other hernia of anterior abdominal wall with graft or prosthesis
+Bilateral Upper Eyelids Blepharoplasty,"08.70 Reconstruction of eyelid, not otherwise specified"
+Infusion of venofer,99.29 Injection or infusion of other therapeutic or prophylactic substance
+Distal Nerve Repair Left Middle Finger,04.3 Suture of cranial and peripheral nerves
+Saucerization of shin carbuncle,"shin = tulang kering
+tapi saucerization di mana2 bahagian pakai kod sama
+86.22 Excisional debridement of wound, infection, or burn"
+Saline test of right knee,"mcm tk cukup info....diagnosis die ade kaitan dgn lutut ker?
+81.92 Injection of therapeutic substance into joint or ligament"
+Above knee backslab,"93.54 Application of splint
+- dalam orthopaedic procedure form , sama kod untuk semua backslab"
+Iv cannulation,"tak perlu , ni macam branula"
+Proximal femoral nail,79.35 Open reduction of fracture with internal fixation (femur)
+"Laparotomy, washout and hartmann's procedure","54.99 Other (other operation on abdominal regions) 
+- utk washout , tapi i mcm tk sure sgt
+45.76 Open and other sigmoidectomy
+46.10 Colostomy, not otherwise specified
+- dua di atas utk hartmann's procedure"
+Dura repair,02.11 Simple suture of dura mater of brain
+Duraplasty,02.11 Simple suture of dura mater of brain
+Posterior lumbar interbody fusion L3-L5,"81.08 Lumbar and lumbosacral fusion, posterior technique"
+Posterior spinal instrumentation and fusion L4/L5,"81.08 Lumbar and lumbosacral fusion, posterior technique
+84.51 Insertion of interbody spinal fusion device"
+CSF Tapping,"CSF = cerebrospinal fluid
+tak cukup specific sbb tak sebut cara
+- 03.31 Spinal tap"
+CSF Biochem,90.0 Microscopic examination of specimen from nervous system and of spinal fluid
+Diagnostic Laparoscopic Stage I Fowler Stephens Procedure,62.5 Orchiopexy
+"Right inguinal Exploration, Ligation of right profunda femoris and tributary of right femoral vein and toilet and suturing","54.29 Other diagnostic procedures on abdominal region
+- inguinal exploration 
+38.88 Other surgical occlusion of vessels (8= femoral artery)
+- ligation of right profunda femoris
+38.89 Other surgical occlusion of vessels (9=femoral vein)
+- ligation tributary of right femoral vein
+Toilette and suturing tu pakai kod Td&s yg biasa pakai tu ya "
+Inguinal Exploratory = Sepatutnya Inguinal Exploration,"54.29 Other diagnostic procedures on abdominal region
+- inguinal exploration "
+Labial Plasty (Excision Labial Fusion And Reconstruction Of Labia),"71.01 Lysis of vulvar adhesions
+- EXCISION LABIAL FUSION
+71.79 Other repair of vulva and perineum
+- RECONSTRUCTION OF LABIA"
+Antiepileptics,"yg tu ubat biasa2, tak yh letak"
+CTPA,88.43 Arteriography of pulmonary arteries
+"Wide Local Excision,Axillary Clearance And Lateral Intercostal Artery Perforated","i rasa full die 
+Wide Local Excision,Axillary Clearance And Lateral Intercostal Artery Perforator flap
+85.20 Excision or destruction of breast tissue, not otherwise specified
+- wide local excision
+40.23 Excision of axillary lymph node
+- axillary clearance 
+85.70 Total reconstruction of breast, not otherwise specified
+- lateral intercostal artery perforator flap
+
+"
+Laparotomy And Perforated Gastric Ulcer Repair And Washout,"54.11 Exploratory laparotomy
+- Laparotomy
+44.41 Suture of gastric ulcer site
+- Perforated Gastric Ulcer Repair"
+medial meniscus tear repair,81.47 Other repair of knee
+Abdominal Wall Reconstruction And Mesh Repair,54.72 Other repair of abdominal wall
+Abdominoplasty,54.72 Other repair of abdominal wall
+Right flexor pollicis longus exploration and flexor pollicis longus reconstruction using palmaris longus graft,"83.81 Tendon graft - ni ok da
+83.01 Exploration of tendon sheath - tgh tunggu reply mo ortho utk ni"
+Contracture release left  ring finger,"82.35 Other fasciectomy of hand
+- Release of Dupuytren's contracture"
+RIGHT LUNG CT GUIDED BIOPSY,33.26 Closed [percutaneous] [needle] biopsy of lung
+right syndesmotic screw,81.49 other repair of ankle (kalao diagnosis die ankle related)
+Second look wound debridement & corticotomy right tibia ,"nanti kalau dpt tlg share pt id 
+86.22 Excisional debridement of wound, infection, or burn
+- utk debridement , second look utk ni mcm tkde
+77.87 Other partial ostectomy (tibia)
+- corticotomy"
+Excision and drainage of upper back carbuncle,"selalunya carbuncle kite saucerization tapi die da tuis mcm tu jadi kite kod ni
+86.04 tu tk sesuai sbb die incision (potong buat lubang), excision die potong sekeliling dan korek 
+86.22 Excisional debridement of wound, infection, or burn"
+Iv methylprednisolone,"99.23 Injection of steroid
+- sbb methylpred tu sejenis steroid gak"
+Superficialization and transposition of left brachiobasilic limb,39.42 Revision of arteriovenous shunt for renal dialysis
+Refashioning Of left little finger,"pakai yg ni for now
+84.01 Amputation and disarticulation of finger"
+RIGHT SYNDESMOLE SCREW,81.49 other repair of ankle (sbb die ankle bimalleolar fracture)
+COMPUTED TOMOGRAPHY ANGIOGRAM BILATERAL LOWER LIMB,88.48 Arteriography of femoral and other lower extremity arteries
+left burrhole and drainage,01.24 other craniotomy
+anterior cervical discectomy and fusion c4/c5 and c5/c6,"80.51 Excision of intervertebral disc
+81.02 Other cervical fusion, anterior technique"
+awake fibreoptic intubation,"96.04 Insertion of endotracheal tube
+- sama mcm kod intubation"
+"Laparoscopic Ultralow Anterior Resection, Intersphincteric Dissection and Turnbull Cutait","48.63 Other anterior resection of rectum ( tak ambil 48.62 sebab yang ni takde colostomy)
+- anterior resection
+49.59 Other anal sphincterotomy
+Division of sphincter NOS
+- intersphincteric dissection
+46.03 Exteriorization of large intestine
+45.95 Anastomosis to anus
+- turnbull cutait"
+LEFT CRANIOTOMY AND CLIPPING OF ANEURYSM,"01.24 Other craniotomy
+39.51 Clipping of aneurysm"
+RIGHT EYE SUPRATARSAL TRIAMCINOLONE INJECTION UNDER GA,"99.23 Injection of steroid
+08.99 Other operations on eyelids"
+RIGHT EYE PLAQUE REMOVAL UNDER GA,"11.1 Incision of cornea
+- ophthal kata dia macam removal foreign body from cornea"
+brainstem evoked response,"95.46 Other auditory and vestibular function tests
+- i tengok previous cases pakai kod ini"
+Left Reverse Dynamic Condylar Screw,"79.3_ Open reduction of fracture with internal fixation
+- kena tgk fracture bahagian mana (cuba tgk diagnosis) untuk menentukan kod selepas 3 tu"
+cect liver 4-phase,88.01 Computerized axial tomography of abdomen
+"Corrective Osteotomy And Proximal Right Tibia Locking Compression Plate, Fibulectomy, Synthetic Bone Graft, Iliac Bone Graft","77.97 Total ostectomy (7= tibia/fibula)
+- Corrective Osteotomy tibia + Fibulectomy
+79.36 Open reduction of fracture with internal fixation (6=tibia/fibula)
+-  Proximal Right Tibia Locking Compression Plate
+78.07 Bone graft (7= tibia/fibula)
+- Synthetic Bone Graft, Iliac Bone Graft
+"
+Caudal block,03.91 Injection of anesthetic into spinal canal for analgesia
+nasoendoscopy,21.21 Rhinoscopy
+peritoneal washout,54.99 Other operations of abdominal region
+percutaneous drainage of intramuscular collection,83.95 Aspiration of other soft tissue
+aspiration of axillary abscess,86.01 Aspiration of skin and subcutaneous tissue
+supraglottoplasty,31.69 Other repair of larynx
+muscle repair of right forearm,83.65 Other suture of muscle or fascia
+Left Decompressive Craniectomy and Bury Bone Abdomen,"01.25 Other craniectomy
+- decomp craniectomy
+86.09 Other incision of skin and subcutaneous tissue
+- bury bone abdomen (utk ni rasanya kena further bincang)"
+distal laparogram,"typo?
+i rasa mungkin DISTAL LOOPOGRAM
+87.65 Other x-ray of intestine 
+- untuk distal loopogram"
+Open Cholecystectomy and Biliary Reconstruction,"51.22 Cholecystectomy
+51.32 Anastomosis of gallbladder to intestine"
+Left Neck Exploration,86.19 Other diagnostic procedures on skin and subcutaneous tissue
+"Anchor Suture Deltoid Ligament, Tightrope Syndesmotic Joint and Posterior Malleolus Screw Fixation of Left Ankle","81.94 Suture of capsule or ligament of ankle and foot
+- anchor suture deltoid  ligament (deltoid ligament tu ankle ligament)
+81.49 Other repair of ankle
+- Tightrope Syndesmotic Joint 
+79.36 Open reduction of fracture with internal fixation (ankle malleolus tu bahagian tulang tibia/fibula = 6 = tibia and fibula
+- Posterior Malleolus Screw Fixation of Left Ankle"
+Retrograde Nail Right Femur Hybrid External Fixator and antibiotic spacer tibia,"79.36 Open reduction of fracture with internal fixation (6 = tibia)
+- retrograde nail right femur 
+78.17 Application of external fixator device (7=tibia)
+84.73 Application of hybrid external fixator device
+- dua kod di atas untuk HYBRID EXTERNAL FIXATOR
+84.56 Insertion or replacement of (cement) spacer
+- antibiotic spacer tibia"
+decompression and fusion of L5-S1,"81.06 Lumbar and lumbosacral fusion, anterior technique"
+polytetrafluoroethylene therapy,99.29 Injection or infusion of other therapeutic or prophylactic substance
+proctoscopy,48.23 Rigid proctosigmoidoscopy
+"relaparotomy, evacuation of clot, abdominal washout and refashioning of stoma","54.12 Reopening of recent laparotomy site
+- relaparotomy
+54.99 Other (other operation on abdominal regions) 
+- evacuation of clot & abdominal washout
+46.40 Revision of intestinal stoma, not otherwise specified
+- refashioning of stoma
+"
+stoma care,99.99 Other miscellaneous procedures 
+Harvesting Of Pericranium and Obliteration of Frontal Sinus,"02.04 Bone graft to skull
+- harvesting of pericranium
+22.42 Frontal sinusectomy
+-  obliteration of frontal sinus"
+Insertion Of Radivac Drain,"kena tengok lokasi drain tu diletak
+
+- kalau ade laparotomy/perut operation, i rasa sesuai pakai
+- 54.99  other operations of abdominal region"
+Laparotomy Small Bowel Decompression,"54.11 Exploratory laparotomy
+46.99 Other operations on intestines"
+Posterior Sagittal Anorectoplasty,"48.40 Pull-through resection of rectum, not otherwise specified"
+NIPPLE BASE FROZEN SECTION AND LATERAL INTERCOSTAL ARTERY PERFORATOR FLAP,"85.12 Open biopsy of breast
+- nipple base frozen section
+85.70 Total reconstruction of breast, not otherwise specified
+- Perforator flap, free
+- lateral intercostal artery perforator flap"
+IRRIGATION AND DRAINAGE OF INFECTED SEBACEOUS CYST,"86.28 Nonexcisional debridement of wound, infection or burn
+- irrigation sebaceous cyst
+86.04 Other incision with drainage of skin and subcutaneous tissue
+- drainage sebaceous cyst"
+ARTERIAL REPAIR OF LEFT ANKLE,39.31 Suture of artery
+VENOUS REPAIR,39.32 Suture of vein
+Product Of Conception For Histopathology Examination,91.46 Microscopic examination of specimen from female genital tract
+laparoscopic right cystectomy,65.25 Other laparoscopic local excision or destruction of ovary
+Right Flexor Digitorum Tendon Release And Flexor Hallucis Tenotomy,"83.01 Exploration of tendon sheath
+- Right Flexor Digitorum Tendon Release & 
+83.13 Other tenotomy
+- flexor hallucis tenotomy 
+"
+vitreous biopsy,14.11 Diagnostic aspiration of vitreousposterior chamber
+intraocular tamponade,"ophthal reply yang prosidur ini combine bawah kod 14.74 TPPV (trans pars plana vitrectomy)
+14.74 Other mechanical vitrectomy "
+sentinel lymph node biopsy of left breast carcinoma,40.23 Excision of axillary lymph node
+laparotomy and resection of caesarean scar pregnancy,"54.11 Exploratory laparotomy
+54.3 Excision or destruction of lesion or tissue of abdominal wall or umbilicus"
+ulnar artery embolectomy,"38.13 Endarterectomy (3 = upper limb vessels Axillary,Brachial,Radial,Ulnar)"
+fasciotomy of left hand,82.12 Fasciotomy of hand
+fasciotomy of left forearm,83.14 Fasciotomy (kod ini untuk semua fasciotomy selain daripada hand)
+"exploration, repair and closure of burst abdomen",54.61 Reclosure of postoperative disruption of abdominal wall
+closed manual reduction & hip spica,"79.00 Closed reduction of fracture without internal fixation (0 = unspecified site)
+- closed manual reduction
+93.51 Application of plaster jacket
+- hip spica"
+sleep study / polysomnogram / polysomnography,89.17 Polysomnogram
+liver haemostasis,50.99 Other operations on liver
+Nerve Transfer Branch of Flexor Carpi Radialis of Left Median Nerve to Bicep Branch of Left Musculocutaneous Branch (Oberlin II Procedure),04.6 Transposition of cranial and peripheral nerves
+Total knee replacement,81.54 Total knee replacement
+Right knee arthroscopic debridement,80.26 Arthroscopy (6 = knee)
+Narrow LCP of left humerus ,79.31 Open reduction of fracture with internal fixation (1=humerus)
+bedside swallowing assessment,"dalam manual icd 9 versi 2021 memang bagi kod ni untuk diagnosis ni
+- ikut je la kod ni walaupun rasa mcm pelik sikit"
+Achilles tendon repair ,"betul
+83.64 Other suture of tendon"
+deblistering for left leg bullous cellulitis,86.09 Other incision of skin and subcutaneous tissue
+renal mass biopsy under ultrasound guidance,55.23 Closed [percutaneous] [needle] biopsy of kidney
+cryocuff,99.81 Hypothermia (central) (local)
+omentum biopsy,"54.23 Biopsy of peritoneum
+Biopsy of:
+mesentery
+omentum"
+IEM study,99.99 Other
+growth hormone ,99.24 Injection of other hormone
+c peptide level,99.99 Other
+exploratory laparotomy  and adhesiolysis segmental small bowel resection,"54.11 Exploratory laparotomy
+54.59 Other lysis of peritoneal adhesions
+45.51 Isolation of segment of small intestine"
+wide local excision of right breast mass and excision biopsy of right accessory breast,"85.20 Excision or destruction of breast tissue, not otherwise specified
+- wide local excision
+85.24 Excision of ectopic breast tissue
+- excision biopsy of right accessory breast"
+right acl augmentation and medial plica excision ,81.45 Other repair of the cruciate ligaments
+triangular fibrocartilage complex,"ARTHROSCOPY LEFT WRIST WITH TRIANGULAR FIBROCARTILAGE COMPLEX REPAIR
+80.23 Arthroscopy (3= wrist)
+- ARTHROSCOPY LEFT WRIST
+81.96 Other repair of joint
+- TRIANGULAR FIBROCARTILAGE COMPLEX REPAIR
+"
+usg guided right pleural drainage,34.09 Other incision of pleura
+pelvic lymph node dissection,40.59 Radical excision of other lymph nodes
+"Vaginal Hysterectomy, Pelvic Floor Repair, Sacrospinous Ligament Fixation","68.59 Other and unspecified vaginal hysterectomy
+70.79 Other repair of vagina
+"
+parenteral iron therapy,99.29 Injection or infusion of other therapeutic or prophylactic substance
+Right Calf Muscle Biopsy,83.21 Biopsy of soft tissue
+laparotomy bilateral cystectomy,65.21 Marsupialization of ovarian cyst
+reversal of ileostomy,46.51 Closure of stoma of small intestine
+supratarsal triamcinolone injection,99.23 Injection of steroid
+antibiotic cement rod,84.56 Insertion or replacement of (cement) spacer
+Intramedullary washout,"86.22 Excisional debridement of wound, infection, or burn"
+dengue combo test,tidak perlu 
+"wound debridement, shortening of right above knee amputation stump, stimulant insertion with secondary suturing","86.22 Excisional debridement of wound, infection, or burn
+84.3 Revision of amputation stump
+86.59 Closure of skin and subcutaneous tissue of other sites"
+removal of cervical polyp,67.39 Other excision or destruction of lesion or tissue of cervix
+enclavation of iol,"13.90 Operation on lens, Not Elsewhere Classified"
+vitreous surgery,"tak cukup specific procedure ini, boleh pakai kod ni dlu
+14.79 Other operations on vitreous"
+fixed traction right hip,93.46 Other skin traction of limbs
+cta thorax,88.44 Arteriography of other intrathoracic vessels
+removal of skin tag,86.4 Radical excision of skin lesion
+"bilateral frontal decompressive craniectomy and partial clot evacuation, dura slit and transcutaneous bone flap implantation","01.25 Other craniectomy
+- bilateral frontal decompressive craniectomy and partial clot evacuation
+86.09 Other incision of skin and subcutaneous tissue
+- transcutaneous bone flap implantation
+"
+right ultrasound guided hookwire localisation ,85.19 Other diagnostic procedures on breast
+lateral intercostal artery perforator (LICAP) flap,"85.70 Total reconstruction of breast, not otherwise specified
+Perforator flap, free"
+nipple base frozen section ,"ni ada kat atas da 
+85.12 Open biopsy of breast"
+Prophylactic Ligation Of Left Brachiocephalic Fistula ,"38.83 Other surgical occlusion of vessels (upper limbs)
+"
+facet block L5/S1,81.92 Injection of therapeutic substance into joint or ligament
+caudal block L5/S1,"boleh pakai kod caudal block, semua jenis caudal block sama kod
+03.91 Injection of anesthetic into spinal canal for analgesia"
+laser eye treatment,11.71 Keratomileusis
+fluoride (dental caries),24.99 Other dental operations
+"wound debridement, right tibia bone resection, revision external fixation right lower limb ","86.22 Excisional debridement of wound, infection, or burn
+77.07 Sequestrectomy (7=tibia)
+- right tibia bone resection
+78.10 Application of external fixator device
+- revision external fixation right lower limb "
+readjustment of external fixation right foot & wound debridement of right foot ,"78.10 Application of external fixator device
+- readjustment of external fixation right foot 
+86.22 Excisional debridement of wound, infection, or burn
+- wound debridement of right foot "
+Ligation and stippling left brachiocephalic fistula,38.83 Other surgical occlusion of vessels (upper limbs)
+bone nibbling of 1st metacarpal bone,77.64 Local excision of lesion or tissue of bone (4 = carpals and metacarpals)
+bone curettage of left fifth toe,77.68 Local excision of lesion or tissue of bone (8 = tarsals and metatarsals)
+excision of left superficial femoral artery aneurysm,39.52 Other repair of aneurysm
+partial wound closure right foot,86.59 Closure of skin and subcutaneous tissue of other sites
+fistuloplasty,39.49 Other revision of vascular procedure
+Venoplasty,39.59 Other repair of vessel
+cuff catheter conversion ,38.95 Venous catheterization for renal dialysis
+radial nerve exploration,04.99 Other operations on cranial and peripheral nerves
+left occipital craniotomy and tumor excision,"01.24 other craniotomy
+01.59 Other excision or destruction of lesion or tissue of brain"
+open window left leg,99.99 Other miscellaneous procedures
+opioid titration,99.29 Injection or infusion of other therapeutic or prophylactic substance
+reduction of prolapsed stoma,"46.40 Revision of intestinal stoma, not otherwise specified"
+laparoscopic converted open appendicectomy,"54.21 Laparoscopy
+47.09 Other appendectomy"
+v-y plasty right index finger,82.89 Other plastic operations on hand
+Total mesorectal excision,48.69 Other resection of rectum
+"Right Eye PPV / Phacofragmentation / Aphakia
+",ambik kod ppv 14.74
+left eye cortical matter removal,14.74
+terminal ileum  for histopathology,90.86 Microscopic examination of specimen from upper gastrointestinal tract and of vomitus
+subcutaneous branula,86.99 Other operations on skin and subcutaneous tissue
+ct guided aspiration,33.26 Closed [percutaneous] [needle] biopsy of lung
+brain death test (BDT),89.13 Neurologic examination
+excision of nubbin tissue,62.2 Excision or destruction of testicular lesion
+"L4/L5 laminectomy, partial facetectomy and discectomy",03.09 Other exploration and decompression of spinal canal
+chromosomal study,x yah kod ni
+RIGHT LOWER LIMB FIBERGLASS (pt id: HM71099),93.53 Application of other cast
+per speculum examination,89.26 Gynecological examination
+intraoral packing,27.99 Other operations on oral cavity
+anterior nasal packing,21.01 Control of epistaxis by anterior nasal packing
+Bedside Aspiration,86.01 Aspiration of skin and subcutaneous tissue
+Repair of Cholecystoduodenal Fistula,"51.72 Choledochoplasty (Repair of fistula of common bile duct)
+46.72 Closure of fistula of duodenum"
+Pull Through Suture Right Patella,81.47 Other repair of knee
+Removal of Extensor Tendon,83.42 Other tenonectomy
+appendix for hpe,90.96 Microscopic examination of specimen from lower gastrointestinal tract and of stool
+shaving right clavicle,77.61 Local excision of lesion or tissue of bone
+transcervical aspiration of left neck cyst,"86.01 Aspiration of skin and subcutaneous tissue
+- tkde yg lebih sesuai plak"
+bilateral septoturbinoplasty,ambil dua kod dari ENT tab (1. Turbinoplasty & 2.Septoplasty)
+cap oxynorm,ini ubat makan jadi x perlu masukkan
+right patella tendon stapler and screw fixation,"79.39 Open reduction of fracture with internal fixation
+- right patella screw fixation
+83.64 Other suture of tendon
+- right patella tendon stapler "
+usg guided needle core biopsy (diagnosis tro abdominal malignancy-abdominal mass),54.24 Closed [percutaneous] [needle] biopsy of intra-abdominal mass
+adhesiolysis with subtotal colectomy with end ileostomy,"54.59 Other lysis of peritoneal adhesions
+- adhesiolysis
+45.79 Other and unspecified partial excision of large intestine
+- subtotal colectomy
+46.20 Ileostomy, not otherwise specified
+- end ileostomy"
+diagnostic laparoscopy and tubal dye test and bilateral hydrosalpinx drainage,"54.21 Laparoscopy
+- diagnostic laparoscopy 
+66.8 Insufflation of fallopian tube 
+- tubal dye test
+66.91 Aspiration of fallopian tube
+- bilateral hydrosalpinx drainage"
+"drainage of pseudocyst
+- LEFT PSEUDOCYST IN BETWEEN LEFT TUBE AND POSTERIOR UTERUS",66.99 Other operations on fallopian tubes
+limited posterior sagittal anorectoplasty,"48.40 Pull-through resection of rectum, not otherwise specified"
+neck drain,yang ni x yah kod sbb die buat procedure utama Neck exploration & haemostasis ....drain tu die letak masa procedure
+laparoscopic convert to laparotomy and wedge resection (left cornual pregnancy),66.69 Other partial salpingectomy
+volar rim plating left radius,79.32 Open reduction of fracture with internal fixation
+limb lengthening reconstruction system and stimulant (dx :infected right tibia interlocking nail),78.37 Limb lengthening procedures
+charcoal dressing over left breast ,93.57 Application of other wound dressing
+ctv brain,87.04 Other tomography of head
+C3-C6 laminectomy posterior instrument and stabilisation C3-C6,"03.09 Other exploration and decompression of spinal canal
+- C3-C6 laminectomy
+81.03 Other cervical fusion, posterior technique
+84.51 Insertion of interbody spinal fusion device
+- C3-C6 posterior instrument  and stabilisation C3-C6"
+"excision scar, contracture release of left index and middle finger (dx: burn contracture)","86.3 Other local excision or destruction of lesion or tissue of skin and
+subcutaneous tissue
+- excision scar
+86.84 Relaxation of scar or web contracture of skin
+- contracture release of left index and middle finger "
+bilateral pelvic lymph nodes and bilateral internal iliac artery ligation,"40.9 Other operations on lymphatic structures
+- bilateral pelvic lymph nodes ligation
+38.86 Other surgical occlusion of vessels
+- bilateral internal iliac artery ligation"
+"Endoscopic ultrasound (EUS) and drainage      
+(dx: peripancreatic collection)",54.99 Other operations of abdominal region
+paring right callus,86.99 Other operations on skin and subcutaneous tissue
+right radial head replacement & anchor suture right coronoid process & annular ligamentation ( dx - closed fracture dislocation of right elbow & right coronoid process fracture),"79.82 Open reduction of dislocation of elbow
+79.32 Open reduction of fracture with internal fixation (2 = radius & ulna)"
+MANIPULATION UNDER ANAESTHESIA OF RIGHT KNEE AND FASCIA RELEASE OVER PINSITE ,"83.91 Lysis of adhesions of muscle, tendon, fascia, and bursa"
+release of symbrachydactyly of left middle and ring finger with full thickness skin graft (ortho),"86.89 Other repair and reconstruction of skin and subcutaneous tissue
+- release of symbrachydactyly of left middle and ring finger 
+86.61 Full-thickness skin graft to hand
+- full thickness skin graft
+"
+first webspace plasty (dx: webbing over first webspace),86.89 Other repair and reconstruction of skin and subcutaneous tissue
+laparoscopic transabdominal preperitoneal bilateral inguinal hernia repair,"17.24 Laparoscopic bilateral repair of inguinal hernia with graft or prosthesis, not otherwise specified"
+subretinal fluid drainage,"14.59 Other repair of retinal detachment
+Includes: that with drainage"
+infective screening (main dx born before arrival),"dah berbincang dgn paeds team, die lebih ke blood test fbc & crp
+- maka kite x perlu masukkan dlm procedure"
+reconstruction surgery right tibia,78.47 Other repair or plastic operations on bone (7=tibia)
+ultrasound guided percutaneous drainage of liver collection,50.91 Percutaneous aspiration of liver
+ct venogram brain,"same dgn ctv brain 
+87.04 Other tomography of head"
+urine drug test,89.29 Other nonoperative genitourinary system measurements
+gas tamponade under local anesthesia ,i rasa die tick pars plana vitrectomy di borang prosidur kan? pakai kod itu saje
+flexible nasopharyngoscopy,29.11 Pharyngoscopy
+commissuroplasty ,27.59 Other plastic repair of mouth
+THROAT SWAB FOR HFMD,99.99 Other miscellaneous procedures
+conservative management (main dx : degenerative spondylolisthesis grade 2-3 L4/L5,tak perlu kod conservative management
+Meatal Advancement and Glanuloplasty Incorporated,64.49 Other repair of penis
+omental patch (ayat penuh: perforated gastric ulcer repair + omental patch),"54.74 Other repair of omentum
+include Graft of omentum
+- omental patch"
+"laparotomy, choledochal cyst excision, hepaticoduodenostomy","54.19 Other laparotomy
+51.69 Excision of other bile duct
+- choledochal cyst excision
+51.37 Anastomosis of hepatic duct to gastrointestinal tract
+- hepaticoduodenostomy"
+ptbd dilatation £¨ptbd = Percutaneous Transhepatic Biliary Drainage),51.98 Other percutaneous procedures on biliary tract
+fluoroscopy (dx : cbd stricture post cholecystectomy/hepatolithiasis),51.19 Other diagnostic procedures on biliary tract
+USG guided FNAC (dx left thyroid nodules,06.11 Closed [percutaneous] [needle] biopsy of thyroid gland
+knee tap/aspiration,81.91 Arthrocentesis
+Bowel Serosal Tear Repair,46.79 Other repair of intestine
+right long dynamic hip screw (dx : Closed Right Interochanteric Femur Fracture with subtrochanteric extension ,79.35 Open reduction of fracture with internal fixation (5 = femur)
+Vesicolithotripsy,59.99 Other operations on urinary system
+surgical decompression of right periorbital region (dx. periorbital surgical site hematoma),86.01 Aspiration of skin and subcutaneous tissue
+full length fibreglass left tibia ,93.53 Application of other cast
+A1 pulley release left index finger (dx : right carpal tunnel syndrome & index trigger finger,82.01 Exploration of tendon sheath of hand
+Laparoscopic anterior resection en bloc left vas deferens and seminal vesicle resection of high IMA/IMV ligation,"63.73 Vasectomy
+60.73 Excision of seminal vesicle
+38.86 Other surgical occlusion of vessels (6 abdominal arteries)
+38.87 Other surgical occlusion of vessels (7 abdominal veins)"
+left autologous cranioplasty,02.04 Cranioplasty >> Bone graft to skull
+REMOVAL OF RIGHT RING FINGER AND ABLATION PLATE OF NAIL BED ,"86.23 Removal of nail, nail bed, or nail fold"
+cannulated screw fixation of medial malleolus,79.36 Open reduction of fracture with internal fixation (6 = tibia and fibula)
+BUTTON HOLE SYNDESMOTIC TIGHTROPE RIGHT ANKLE FIXATION AND SPLIT SKIN GRAFT OF MEDIAL & LATERAL FASCIOTOMY WOUND OF RIGHT LEG,"BUTTON HOLE SYNDESMOTIC TIGHTROPE RIGHT ANKLE FIXATION
+- 81.49 Other repair of ankle
+SPLIT SKIN GRAFT OF MEDIAL & LATERAL FASCIOTOMY WOUND OF RIGHT LEG
+- 86.60 Free skin graft, not otherwise specified"
+ONE THIRD TUBULAR PLATING OF RIGHT MALLEOLUS,79.36 Open reduction of fracture with internal fixation (6 = tibia and fibula)
+UMBILICAL TOILETING,96.59 Other irrigation of wound
+tdns and structural repair of left hand and left forearm,"82.99 Other operations on muscle, tendon, and fascia of hand
+- tdns and structural repair of left hand
+83.99 Other operations on muscle, tendon, fascia, and bursa (except hand)
+- tdns and structural repair of left forearm"
+"wound debridement, wound exploration, Structural Repair, Suzuki Finger Frame Left Middle Finger","86.22 Excisional debridement of wound, infection, or burn
+- wound debridement, wound exploration
+82.99 Other operations on muscle, tendon, and fascia of hand
+- structural repair left middle finger 
+84.71 Application of external fixator device, monoplanar
+- suzuki finger frame left middle finger"
+open anterior resection (dx: sigmoid descending colon junction tumors),48.63 Other anterior resection of rectum
+urine taken (urine organic acid),89.29 Other nonoperative genitourinary system measurements
+Transforaminal Injection TL1-L2,03.92 Injection of other agent into spinal canal
+TDM amikacin,x yah la....x jumpe yg sesuai sgt
+Modified Weaver-Dunn Procedure for right AC (Acromioclavicular) joint and right AC (Acromioclavicular) joint reconstruction,81.83 Other repair of shoulder
+Excision of Nipple and Areolar Complex with Excision of Redundant Scar Tissue (dx: left breast invasive carcinoma),"85.25 Excision of nipple 
+- Excision of Nipple and Areolar Complex 
+86.3 Other local excision or destruction of lesion or tissue of skin and
+subcutaneous tissue
+- Excision of Redundant Scar Tissue "
+CTA Thoraco-Abdominal Aorta,88.42 Aortography
+Urine PCR,89.29 Other nonoperative genitourinary system measurements
+Exploratory laparotomy and abdominal washout and modified Graham patch repair,"54.11 Exploratory laparotomy
+- exploratory Laparotomy
+44.41 Suture of gastric ulcer site
+- Perforated Gastric Ulcer Repair"
+laparoscopic resection of caesarean scar defect,68.29 Other excision or destruction of lesion of uterus
+hernioplasty,"unilateral
+- 53.05 Repair of inguinal hernia with graft or prosthesis, not otherwise
+specified
+bilateral 
+- 53.17 Bilateral inguinal hernia repair with graft or prosthesis, not
+otherwise specified"
+"removal of implant, removal screw fixation of left 5th metatarsal ( Dx : aseptic non union left pseudo jones fracture",78.68 Removal of implanted devices from bone (8 = tarsals and metatarsals)
+glucose monitoring,No need letak as procedure
+Surgical enucleation,16.49 Other enucleation of eyeball
+distal ileum mesentery peritonectomy,54.4 Excision or destruction of peritoneal tissue
+HIV Elisa,no need code
+Fluoroscopy guided nephrostomy tube upsize,"bole ambik
+55.02 Nephrostomy"
+Excision biopsy of right neck mass,"40.21 tak sesuai sbb ia untuk deep cervical lymph node
+86.3 Other local excision or destruction of lesion or tissue of skin and
+subcutaneous tissue"
+BEDSIDE REDUCTION OF PARAPHIMOSIS,"tiada kod khas untuk prosidur ini
+99.99 Other miscellaneous procedures"
+EXCISION OF LEFT PREAXIAL POLYDACTYLY,82.69 Other reconstruction of thumb
+"Examination under anesthesia, dilatation and curettage spinal",69.09 Other dilation and curettage
+Pleuroscopy,34.21 Transpleural thoracoscopy
+SCAR RELEASE AND REDO CIRCUMCISION,"86.84 tak sesuai sebab kod tu RELAXATION OF SCAR, bukan excision
+86.3 Other local excision or destruction of lesion or tissue of skin and
+subcutaneous tissue
+- scar release
+64.0 Circumcision
+- redo circumcision"
+Reconstruction plate symphysis pubis,79.39 Open reduction of fracture with internal fixation (9 = other specified bone)
+Revision screw fixation navicular bone and spinopelvic fixation,"78.59 Internal fixation of bone without fracture reduction (9 = other specified bone)
+- Revision screw fixation navicular bone
+- code cover for revision
+78.59 Internal fixation of bone without fracture reduction (9 = other specified bone)
+- spinopelvic fixation"
+wide local excision and V-Y advancement flap over the left nasal alar (diagnosis - nasal alar basal cell carcinoma),"21.30 Excision or destruction of lesion of nose, not otherwise specified
+- wide local excision of nasal ala basal cell carcinoma
+21.89 Other repair and plastic operations on nose
+- V-Y advancement flap over the left nasal alar"
+laparotomy incisional hernia repair and left inguinal hernia repair ,"53.51 Incisional hernia repair
+- laparotomy incisional hernia repair
+53.00 Unilateral repair of inguinal hernia, not otherwise specified
+- left inguinal hernia repair "
+sitz bath ,"prosidur ni rendam  air garam je
+tak perlu masukkan dalam prosidur la"
+ferguson haemorrhoidectomy ,49.49 Other procedures on hemorrhoids
+"Kirschner wires of little finger, removal and disarticulation at distal interphalangeal joint level of left little finger","79.34 Open reduction of fracture with internal fixation (4 = phalanges of hand)
+- Kirschner wires of little finger
+84.01 Amputation and disarticulation of finger
+- removal and disarticulation at distal interphalangeal joint level of left little finger"
+"bedside wound debridement, shortening of 3rd metatarsal,tipping of second metatarsal head and 4th proximal phalanx","86.22 Excisional debridement of wound, infection, or burn
+-  bedside wound debridement
+78.28 Limb shortening procedures (8 tarsals and metatarsals)
+- shortening of 3rd metatarsal
+- tipping of second metatarsal head and 4th proximal phalanx"
+BEDSIDE PERITONEAL TAPPING,sama dengan peritoneal tap di TAB jabatan MEDICAL
+cect pancreatic protocol,88.01 Computerized axial tomography of abdomen
+Subcutaneous port insertion (dx: adenocarcinoma with bone metastasis),86.07 Insertion of totally implantable vascular access device  
+Right Brescia Cimino Creation (dx: End stage renal failure) ,39.27 Arteriovenostomy for renal dialysis
+Superficial Parotidectomy (dx: Left Pleomorphic Adenoma of Parotid ),"26.30 Sialoadenectomy, not otherwise specified"
+posterior spinal instrumentation and fixation t3-t11,"81.05 Dorsal and dorsolumbar fusion, posterior technique
+84.51 Insertion of interbody spinal fusion device"
+oral antibiotics,tidak perlu 
+Sputum geneXpert,"nak 90.4 mcm susah sikit sbb yg tu microscopic examination
+99.99 Other miscellaneous procedures"
+excision of urethral stricture and primary anastomosis,"58.39 Other local excision or destruction of lesion or tissue of urethra
+- excision of urethral stricture
+58.44 Reanastomosis of urethra
+- primary anastomosis"
+premacular fibrosis excision (dx: left eye tractional retinal detachment) ,"bole ambik 14.9 ikut apa ophthal tulis dlm pd301 
+14.9 Other operations on retina, choroid, and posterior chamber"
+incision and drainage of an intraoral right submasseteric abscess ,27.0 Drainage of face and floor of mouth
+"anterior/posterior (ant/post) perineal repairs
+ (dx uv prolapsed grade 3 with cystocele rectocele",71.79 Other repair of vulva and perineum
+medial collateral ligament internal bracing ,81.46 Other repair of the collateral ligaments
+Proctoscope (dx:  lower GI bleed secondary to rectal ulcer),"betul
+48.23 Rigid proctosigmoidoscopy"
+Computerized Tomography Urogram / CT urogram / CTU ,"no specific code for ct urogram, suggested to use this closest code
+87.71 Computerized axial tomography of kidney
+"
+evacuation of Gouty Tophi of left foot (dx: infected gouty tophi of left foot,80.88 Other local excision or destruction of lesion of joint (8=foot and toe)
+POC for HPE (dx: miscarriage) (poc = product of conception),91.46 Microscopic examination of specimen from female genital tract (6=cell block and Papanicolaou smear)
+Guyon canal release,"04.49 Other peripheral nerve or ganglion decompression or lysis of
+adhesions"
+Hypothenar Fat Pad / Hypothenar Fat Pad flap,86.72 Advancement of pedicle graft
+Trucut biopsy of right breast,85.11 Closed [percutaneous] [needle] biopsy of breast
