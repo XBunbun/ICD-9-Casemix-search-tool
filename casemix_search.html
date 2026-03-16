@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Casemix ICD Procedure Search</title>
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+<style>
+body{font-family:Arial;margin:40px;background:#f7f7f7;}
+h2{color:#333;}
+input{padding:8px;font-size:16px;margin-top:10px;}
+table{border-collapse:collapse;width:100%;margin-top:20px;background:white;}
+th,td{border:1px solid #ccc;padding:8px;}
+th{background:#e8e8e8;}
+</style>
+</head>
+<body>
+
+<h2>Casemix ICD Procedure Search</h2>
+
+Search: <input type="text" id="search" placeholder="Type procedure or code">
+
+<table id="table">
+<thead>
+<tr>
+<th>Procedure</th>
+<th>ICD Code</th>
+</tr>
+</thead>
+<tbody></tbody>
+</table>
+
+<script>
+let database=[];
+
+// Automatically load CSV from root folder
+fetch("icd9_procedure.csv")  // Make sure your CSV is in the root
+  .then(response => response.text())
+  .then(csvText => {
+    database = Papa.parse(csvText, {header:true}).data;
+    console.log("Database loaded:", database.length, "records");
+  });
+
+// Search function
+document.getElementById("search").addEventListener("input", function(){
+  let keyword = this.value.toLowerCase();
+  let tbody = document.querySelector("#table tbody");
+  tbody.innerHTML = "";
+
+  database.forEach(row => {
+    let procedure = row.Procedure?.toLowerCase() || "";
+    let code = row.Code?.toLowerCase() || "";
+    if(procedure.includes(keyword) || code.includes(keyword)){
+      let tr = document.createElement("tr");
+      tr.innerHTML = "<td>" + row.Procedure + "</td><td>" + row.Code + "</td>";
+      tbody.appendChild(tr);
+    }
+  });
+});
+</script>
+
+</body>
+</html>
